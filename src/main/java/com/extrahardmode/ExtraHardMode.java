@@ -57,7 +57,7 @@ public class ExtraHardMode extends JavaPlugin
     /**
      * Plugin tag.
      */
-    public static final String TAG = "[EHM]";
+    public static final String TAG = "[Anarchy]";
 
     /**
      * Registered modules.
